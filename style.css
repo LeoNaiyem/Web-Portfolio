@@ -45,7 +45,7 @@ p{
 }
 
 .dream-section{
-    /* background-image: url(images/dream-bg.png) ; */
+    background-image: url(images/dream-bg.png) ;
     background-repeat: no-repeat;
     background-position: right;
     height: 700px;
